@@ -1,1 +1,0 @@
-Designed a 2-D Convolutional Neural Network model using Tensorflow to detect and recognize 10 static signs in Indian sign language. Model outperformed Artificial Neural Network model achieving an accuracy of 98.7%.
