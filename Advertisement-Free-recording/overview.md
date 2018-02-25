@@ -1,0 +1,1 @@
+Developed a 2-D Convolutional Neural Network model using Tensor-Flow for detection of advertisements in an ongoing cricket match with an accuracy of 99.2%. Detected advertisements are removed in real time, enabling recording of an advertisement-free cricket match.
